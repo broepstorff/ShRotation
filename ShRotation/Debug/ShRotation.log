@@ -1,0 +1,9 @@
+﻿  ShRotationMain.cpp
+  ShRotateSlow.cpp
+  ShRotatePreCalc.cpp
+  ShRotateFast.cpp
+  ShProject.cpp
+  MatrixInverse.cpp
+  MatrixHelpers.cpp
+  Generating Code...
+  ShRotation.vcxproj -> C:\Users\broepstorff\Downloads\ShRotation\ShRotation\Debug\ShRotation.exe

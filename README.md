@@ -1,0 +1,1 @@
+code from: http://www.filmicworlds.com/2014/07/02/simple-and-fast-spherical-harmonic-rotation/
